@@ -1,8 +1,8 @@
 {
-    "id": "hootis.templatemod",
-    "name": "template mod",
+    "id": "mod.hootis.crueltyworld",
+    "name": "Cruelty World",
     "version": "1.0",
     "authors": "hootis",
-    "description": "please change this before uploading!",
+    "description": "500 hours of mind pumping action!",
     "checksum_override_version": false
 }
